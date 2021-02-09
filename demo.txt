@@ -1,0 +1,9 @@
+ec2
+vpc
+auto scaling
+elb
+s3
+route 53
+dynamo db
+cloud watch
+
