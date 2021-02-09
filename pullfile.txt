@@ -1,2 +1,4 @@
 this was created for the pull command 
-pull command -- used to pull the files from github created by other develepo to our local repo
+pull command -- used to pull the files from github created by other develepo to our local repo.
+
+it is also used to track the changes did by the other developers
