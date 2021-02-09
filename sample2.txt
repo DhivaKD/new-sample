@@ -6,3 +6,4 @@ sql
 linux
 networking
 docker
+kubernetes
