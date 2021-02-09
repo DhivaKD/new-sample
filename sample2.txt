@@ -1,0 +1,8 @@
+aws
+cloud
+devops
+python
+sql
+linux
+networking
+docker

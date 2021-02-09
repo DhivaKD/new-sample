@@ -1,0 +1,10 @@
+init
+add
+commit
+push
+remote login
+pull
+merge
+rebase
+clone
+alias
